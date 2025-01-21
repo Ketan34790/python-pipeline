@@ -1,0 +1,21 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment configuration files
+.env
+
+# Ignore IDE files (optional)
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
